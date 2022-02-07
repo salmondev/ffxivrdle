@@ -21,6 +21,8 @@ export const VALID_GUESSES = [
   'biggs',
   'wedge',
   'iroha',
+  'zenos',
+  'elena',
   'omega',
   'ifrit',
   'titan',
