@@ -24,6 +24,7 @@ export const VALID_GUESSES = [
   'iroha',
   'zenos',
   'elena',
+  'limsa',
   'omega',
   'ifrit',
   'titan',
