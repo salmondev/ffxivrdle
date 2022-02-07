@@ -1,4 +1,4 @@
-export const GAME_TITLE = 'FFXIVDLE'
+export const GAME_TITLE = 'FFXIRVDLE'
 
 export const WIN_MESSAGES = ['Great Job!', 'Awesome', 'Well done!']
 export const GAME_COPIED_MESSAGE = 'Game copied to clipboard'
