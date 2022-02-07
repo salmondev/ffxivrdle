@@ -1,3 +1,10 @@
+# FFXIV Wordle
+
+This is a fork of cwackerfuss/react-wordle which uses ffxiv related location, job, skill, monster, mount and etc names for its words.
+hosted at https://ffxivrdle.com/
+
+# Original readme below
+
 # React Wordle
 
 This is a clone project of the popular word guessing game we all know and love. Made using React, Typescript, and Tailwind.
