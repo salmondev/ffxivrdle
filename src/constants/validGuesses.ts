@@ -18,6 +18,7 @@ export const VALID_GUESSES = [
   'xande',
   'ellie',
   'talan',
+  'limsa',
   'biggs',
   'wedge',
   'iroha',
