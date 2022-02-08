@@ -1,10 +1,10 @@
 export const WORDS = [
   'anima',
   'alpha',
-  'venat',
-  'feint',
-  'kefka',
   'wedge',
+  'feint',
+  'venat',
+  'kefka',
   'haima',
   'fanow',
   'biddy',
