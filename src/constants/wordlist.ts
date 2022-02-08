@@ -2,9 +2,9 @@ export const WORDS = [
   'anima',
   'alpha',
   'ninja',
+  'elpis',
   'kefka',
   'raise',
-  'elpis',
   'wedge',
   'fanow',
   'venat',
@@ -144,9 +144,3 @@ export const WORDS = [
   'isari',
   'jinpu',
 ]
-
-const d = WORDS.filter((a) => {
-  if (a.includes('p') && a.includes('l') && a.includes('h')) return true
-  return false
-})
-d
