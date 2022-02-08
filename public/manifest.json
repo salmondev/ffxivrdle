@@ -1,6 +1,6 @@
 {
-  "short_name": "Game",
-  "name": "Game",
+  "short_name": "FFXIVRDLE",
+  "name": "FFXIV Wordle",
   "icons": [
     {
       "src": "favicon.ico",
