@@ -1,19 +1,19 @@
 export const WORDS = [
   'anima',
   'alpha',
-  'wedge',
-  'feint',
-  'venat',
+  'ninja',
   'kefka',
-  'haima',
+  'raise',
+  'elpis',
+  'wedge',
   'fanow',
-  'biddy',
+  'venat',
+  'aldis',
   'hades',
   'ixtab',
-  'raise',
   'runar',
+  'feint',
   'twine',
-  'aldis',
   'books',
   'rogue',
   'anene',
@@ -23,8 +23,10 @@ export const WORDS = [
   'cylva',
   'safat',
   'exile',
+  'haima',
   'sleep',
   'dosis',
+  'biddy',
   'gnoll',
   'shiva',
   'first',
@@ -67,7 +69,6 @@ export const WORDS = [
   'bozja',
   'safat',
   'voyce',
-  'ninja',
   'strix',
   'shifu',
   'broil',
@@ -128,7 +129,6 @@ export const WORDS = [
   'dwarf',
   'flare',
   'siren',
-  'elpis',
   'troll',
   'anvil',
   'snail',
@@ -144,3 +144,9 @@ export const WORDS = [
   'isari',
   'jinpu',
 ]
+
+const d = WORDS.filter((a) => {
+  if (a.includes('p') && a.includes('l') && a.includes('h')) return true
+  return false
+})
+d
