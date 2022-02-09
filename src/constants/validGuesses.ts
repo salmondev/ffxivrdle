@@ -1,5 +1,6 @@
 export const VALID_GUESSES = [
   'lucia',
+  'yorha',
   'tomra',
   'allag',
   'scrip',
