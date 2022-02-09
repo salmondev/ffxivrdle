@@ -150,6 +150,12 @@ function App() {
       setIsRevealing(false)
     }, REVEAL_TIME_MS * MAX_WORD_LENGTH)
 
+    if (currentGuess.toLocaleLowerCase() === 'lahee') {
+      setTimeout(() => {
+        const audio = new Audio('/lahee.mp3')
+        audio.play()
+      }, REVEAL_TIME_MS * (MAX_WORD_LENGTH / 2))
+    }
     const winningWord = isWinningWord(currentGuess)
 
     if (
