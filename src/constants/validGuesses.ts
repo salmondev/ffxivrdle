@@ -325,6 +325,7 @@ export const VALID_GUESSES = [
   'gnole',
   'roper',
   'laver',
+  'eikon',
   'bombs',
   'draco',
   'rank)',
