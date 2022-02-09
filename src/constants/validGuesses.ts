@@ -54,6 +54,7 @@ export const VALID_GUESSES = [
   'brina',
   'calca',
   'ifrit',
+  'pasol',
   'owlet',
   'panda',
   'dwarf',
