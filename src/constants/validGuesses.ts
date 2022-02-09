@@ -1,5 +1,6 @@
 export const VALID_GUESSES = [
   'yoshi',
+  'lahee',
   'soken',
   'lucia',
   'yorha',
