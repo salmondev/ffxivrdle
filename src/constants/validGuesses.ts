@@ -1,5 +1,10 @@
 export const VALID_GUESSES = [
-  'porom',
+  'lucia',
+  'allag',
+  'scrip',
+  'tower',
+  'shard',
+  'graha',
   'vrtra',
   'crabe',
   'anima',
