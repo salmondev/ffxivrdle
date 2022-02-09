@@ -9,6 +9,12 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
   return (
     <BaseModal title="About" isOpen={isOpen} handleClose={handleClose}>
       <p className="text-sm text-gray-500 dark:text-gray-300">
+        Have a word suggestion? you can drop it at{' '}
+        <a href="https://discord.gg/YAPBWmJbkV" className="underline font-bold">
+          discord
+        </a>
+      </p>
+      <p className="text-sm text-gray-500 dark:text-gray-300">
         This is a fork of an open source version of the word guessing game we
         all know and love -{' '}
         <a
@@ -16,7 +22,7 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
           className="underline font-bold"
         >
           check out the original code here
-        </a>{' '}
+        </a>
       </p>
       <p className="text-sm text-gray-500 dark:text-gray-300">
         Modification made by marantle -{' '}
@@ -25,7 +31,7 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
           className="underline font-bold"
         >
           check out the modification here
-        </a>{' '}
+        </a>
       </p>
     </BaseModal>
   )

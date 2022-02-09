@@ -43,9 +43,21 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
         <Cell value="I" status="absent" />
         <Cell value="S" />
       </div>
+
       <p className="text-sm text-gray-500 dark:text-gray-300">
         The letter I is not in the word in any spot.
       </p>
+      <div className="flex justify-center mb-1 mt-4">
+        <p className="text-sm text-gray-500 dark:text-gray-300">
+          Have a word suggestion? you can drop it in{' '}
+          <a
+            href="https://discord.gg/YAPBWmJbkV"
+            className="underline font-bold"
+          >
+            discord
+          </a>
+        </p>
+      </div>
     </BaseModal>
   )
 }
