@@ -1,4 +1,5 @@
 export const WORDS = [
+  'grape',
   'anima',
   'alpha',
   'ninja',
