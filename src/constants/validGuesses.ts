@@ -1,4 +1,6 @@
 export const VALID_GUESSES = [
+  'parse',
+  'livia',
   'grape',
   'gaius',
   'yoshi',
