@@ -1,5 +1,7 @@
 export const VALID_GUESSES = [
   'zepla',
+  'gpose',
+  'cpose',
   'parse',
   'livia',
   'grape',
