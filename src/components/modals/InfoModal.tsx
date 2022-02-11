@@ -17,9 +17,9 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
       <div className="flex justify-center mb-1 mt-4">
         <Cell value="L" status="correct" />
         <Cell value="A" />
-        <Cell value="M" />
-        <Cell value="I" />
-        <Cell value="A" />
+        <Cell value="H" />
+        <Cell value="E" />
+        <Cell value="E" />
       </div>
       <p className="text-sm text-gray-500 dark:text-gray-300">
         The letter L is in the word and in the correct spot.
