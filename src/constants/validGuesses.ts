@@ -1,4 +1,6 @@
 export const VALID_GUESSES = [
+  'pipin',
+  'pinax',
   'zepla',
   'gpose',
   'cpose',
