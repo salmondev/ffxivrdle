@@ -71,7 +71,6 @@ export const WORDS = [
   'crick',
   'iroha',
   'bozja',
-  'safat',
   'voyce',
   'strix',
   'shifu',
@@ -140,7 +139,6 @@ export const WORDS = [
   'argos',
   'ellie',
   'louhi',
-  'knight',
   'isari',
   'jinpu',
 ]
