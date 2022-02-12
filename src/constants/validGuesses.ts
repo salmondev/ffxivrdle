@@ -405,6 +405,7 @@ export const VALID_GUESSES = [
   'noble',
   'saiga',
   'anila',
+  'rival',
   'wings',
   'sebek',
   'stern',
