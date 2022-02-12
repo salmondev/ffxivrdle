@@ -1,4 +1,8 @@
 export const VALID_GUESSES = [
+  'seize',
+  'adder',
+  'nodes',
+  'scion',
   'onsal',
   'gorge',
   'north',
