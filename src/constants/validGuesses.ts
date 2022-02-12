@@ -1,4 +1,6 @@
 export const VALID_GUESSES = [
+  'onsal',
+  'gorge',
   'north',
   'south',
   'bards',
