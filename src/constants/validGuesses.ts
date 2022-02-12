@@ -1,4 +1,7 @@
 export const VALID_GUESSES = [
+  'pdart',
+  'mount',
+  'craft',
   'seize',
   'adder',
   'nodes',
