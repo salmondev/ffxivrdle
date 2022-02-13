@@ -1,5 +1,6 @@
 export const VALID_GUESSES = [
   'quest',
+  'quest',
   'vault',
   'pdart',
   'mount',
