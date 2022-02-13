@@ -1,4 +1,5 @@
 export const VALID_GUESSES = [
+  'vault',
   'pdart',
   'mount',
   'craft',
@@ -169,7 +170,6 @@ export const VALID_GUESSES = [
   'books',
   'wands',
   'canes',
-  'knight',
   'uldah',
   'globe',
   'nandi',
