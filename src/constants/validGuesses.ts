@@ -1,5 +1,4 @@
 export const VALID_GUESSES = [
-  'vault',
   'quest',
   'vault',
   'pdart',
