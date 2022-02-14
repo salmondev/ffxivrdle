@@ -1,4 +1,8 @@
 export const VALID_GUESSES = [
+  'dhona',
+  'trick',
+  'pagos',
+  'pyros',
   'relic',
   'tomes',
   'limit',
