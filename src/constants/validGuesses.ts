@@ -1,4 +1,5 @@
 export const VALID_GUESSES = [
+  'relic',
   'tomes',
   'limit',
   'break',
