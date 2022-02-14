@@ -1,4 +1,5 @@
 export const VALID_GUESSES = [
+  'piety',
   'menis',
   'gubal',
   'thule',
