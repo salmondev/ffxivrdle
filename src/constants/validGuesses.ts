@@ -1,4 +1,5 @@
 export const VALID_GUESSES = [
+  'gubal',
   'thule',
   'quest',
   'vault',
