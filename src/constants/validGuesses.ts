@@ -1,4 +1,6 @@
 export const VALID_GUESSES = [
+  'quake',
+  'whorl',
   'crags',
   'raids',
   'trial',
@@ -6,7 +8,6 @@ export const VALID_GUESSES = [
   'reign',
   'ember',
   'fount',
-  'faith',
   'arena',
   'black',
   'flood',
