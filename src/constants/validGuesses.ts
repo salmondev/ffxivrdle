@@ -1,4 +1,12 @@
 export const VALID_GUESSES = [
+  'crags',
+  'raids',
+  'trial',
+  'hells',
+  'reign',
+  'ember',
+  'fount',
+  'faith',
   'arena',
   'black',
   'flood',
