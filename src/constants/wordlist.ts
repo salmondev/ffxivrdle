@@ -9,6 +9,7 @@ export const WORDS = [
   'ifrit',
   'cover',
   'kojin',
+  'arena',
   'runar',
   'mhach',
   'hades',
