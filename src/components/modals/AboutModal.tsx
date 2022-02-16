@@ -17,10 +17,7 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
 
       <p className="text-sm text-gray-500 dark:text-gray-300">
         Creator's twitter
-        <a
-          href="https://twitter.com/kornostaka"
-          className="underline font-bold"
-        >
+        <a href="https://twitter.com/marantle" className="underline font-bold">
           <div
             style={{
               display: 'flex',
