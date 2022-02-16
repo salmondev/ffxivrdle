@@ -310,7 +310,6 @@ export const VALID_GUESSES = [
   'veles',
   'hound',
   'abaia',
-  'honey',
   'mochi',
   'biast',
   'melia',
