@@ -1,4 +1,26 @@
+// import * as fs from 'fs'
+
 export const VALID_GUESSES = [
+  'adder',
+  'afaik',
+  'aggro',
+  'blist',
+  'carby',
+  'class',
+  'emote',
+  'ffxiv',
+  'flank',
+  'flame',
+  'fraps',
+  'grats',
+  'group',
+  'nuker',
+  'pbaoe',
+  'pwned',
+  'quest',
+  'storm',
+  'train',
+  'wings',
   'quake',
   'whorl',
   'crags',
@@ -26,13 +48,11 @@ export const VALID_GUESSES = [
   'menis',
   'gubal',
   'thule',
-  'quest',
   'vault',
   'pdart',
   'mount',
   'craft',
   'seize',
-  'adder',
   'nodes',
   'scion',
   'onsal',
@@ -342,7 +362,6 @@ export const VALID_GUESSES = [
   'night',
   'dagon',
   'spawn',
-  'flame',
   'isten',
   'salas',
   'helot',
@@ -354,7 +373,6 @@ export const VALID_GUESSES = [
   'clone',
   'armor',
   'chief',
-  'class',
   'wench',
   'gryps',
   'wespe',
@@ -447,7 +465,6 @@ export const VALID_GUESSES = [
   'saiga',
   'anila',
   'rival',
-  'wings',
   'sebek',
   'stern',
   'heart',
@@ -485,3 +502,8 @@ export const VALID_GUESSES = [
   'yamaa',
   'fiend',
 ]
+
+// fs.writeFileSync(
+//   'clean.json',
+//   JSON.stringify([...new Set(VALID_GUESSES.map((w) => w.toLowerCase()))])
+// )
