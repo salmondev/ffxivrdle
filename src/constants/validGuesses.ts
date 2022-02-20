@@ -1,6 +1,11 @@
 // import * as fs from 'fs'
 
 export const VALID_GUESSES = [
+  'realm',
+  'anogg',
+  'phial',
+  'whale',
+  'sabik',
   'aurum',
   'doman',
   'smite',
