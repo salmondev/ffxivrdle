@@ -12,7 +12,7 @@ export const shareStatus = (
       isHardMode ? '*' : ''
     }\n\n` +
       generateEmojiGrid(guesses) +
-      `\n\nplay FFXIVrdle at https://ffxivrdle.com`
+      `\n\nplay #FFXIVrdle at https://ffxivrdle.com`
   )
 }
 
